@@ -1,0 +1,12 @@
+{
+  "banners": [
+    {
+      "id": "bible-app-promo",
+      "imageURL": "https://example.com/promo-bible-app.jpg",
+      "destinationURL": "https://apps.apple.com/app/id1234567890",
+      "title": "Try our Bible App!",
+      "subtitle": "Read the Bible with concordance",
+      "isActive": true
+    }
+  ]
+}
