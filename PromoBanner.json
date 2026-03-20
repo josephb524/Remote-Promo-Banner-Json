@@ -1,12 +1,13 @@
 {
   "banners": [
     {
-      "id": "bible-app-promo",
-      "imageURL": "https://example.com/promo-bible-app.jpg",
-      "destinationURL": "https://apps.apple.com/app/id1234567890",
-      "title": "Try our Bible App!",
-      "subtitle": "Read the Bible with concordance",
+      "id": "interlinear-bible-plus-promo",
+      "imageURL": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/interlinear_bible_promo.png",
+      "destinationURL": "https://apps.apple.com/us/app/interlinear-bible-plus/id6754784885",
+      "title": "Interlinear Bible Plus",
+      "subtitle": "Discover the original Hebrew & Greek",
       "isActive": true
     }
   ]
 }
+
