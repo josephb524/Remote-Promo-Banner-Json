@@ -1,0 +1,13 @@
+
+{
+  "banners": [
+    {
+      "id": "interlinear-bible-plus-promo",
+      "imageURL": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Interlineal%20bible%20app%20icon.png",
+      "destinationURL": "https://apps.apple.com/us/app/interlinear-bible-plus/id6754784885",
+      "title": "Interlinear Bible Plus",
+      "subtitle": "Haz click para descargar",
+      "isActive": true  
+    }
+  ]
+}
