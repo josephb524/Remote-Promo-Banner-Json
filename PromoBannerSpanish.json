@@ -2,16 +2,16 @@
     "banners": [
       {
         "id": "hearken-sermon-notes-promo",
-        "imageURL": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Hearken.png",
-        "destinationURL": "https://apps.apple.com/us/app/hearken-sermon-notes-bible/id6804923617",
-        "title": "Hearken: Graba el sermón, quédate con las notas",
-        "subtitle": "Haz click para descargar",
+        "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/hearken",
+        "destinationURL": "https://promo-tracker.bible-chat-worker.workers.dev/go/hearken",
+        "title": "Hearken — Graba el sermón, quédate con las notas",
+        "subtitle": "Escribe notas organizadas por ti, con cada versículo enlazado",
         "isActive": true
       },
       {
         "id": "interlinear-bible-plus-promo",
-        "imageURL": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Interlineal%20bible%20app%20icon.png",
-        "destinationURL": "https://apps.apple.com/us/app/interlinear-bible-plus/id6754784885",
+        "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/interlinear",
+        "destinationURL": "https://promo-tracker.bible-chat-worker.workers.dev/go/interlinear",
         "title": "Interlinear Bible Plus",
         "subtitle": "Haz click para descargar",
         "isActive": false
