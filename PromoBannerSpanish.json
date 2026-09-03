@@ -3,7 +3,7 @@
       {
         "id": "hearken-sermon-notes-promo",
         "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/hearken",
-        "destinationURL": "https://promo-tracker.bible-chat-worker.workers.dev/go/hearken",
+        "destinationURL": "https://apps.apple.com/us/app/hearken-sermon-notes-bible/id6804923617",
         "title": "Hearken — Graba el sermón, quédate con las notas",
         "subtitle": "Escribe notas organizadas por ti, con cada versículo enlazado",
         "isActive": true
