@@ -11,10 +11,10 @@
       {
         "id": "cairn-daily-bible-promo",
         "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/cairn",
-        "destinationURL": "https://promo-tracker.bible-chat-worker.workers.dev/go/cairn",
+        "destinationURL": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=promo-banner&mt=8",
         "title": "Cairn — Tu compañero bíblico diario",
         "subtitle": "Un versículo, una lectura y una oración cada día",
-        "isActive": false
+        "isActive": true
       },
       {
         "id": "interlinear-bible-plus-promo",
