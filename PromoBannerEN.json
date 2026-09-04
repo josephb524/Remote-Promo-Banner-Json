@@ -1,17 +1,25 @@
 {
     "banners": [
-      {                                                                                                         
+      {
         "id": "hearken-sermon-notes-promo",
         "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/hearken",
-        "destinationURL": "https://apps.apple.com/us/app/hearken-sermon-notes-bible/id6804923617",
+        "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
         "title": "Hearken — Record the Sermon, Keep the Notes",
         "subtitle": "It writes organized notes for you, with every verse linked",
         "isActive": true
       },
       {
+        "id": "cairn-daily-bible-promo",
+        "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/cairn",
+        "destinationURL": "https://promo-tracker.bible-chat-worker.workers.dev/go/cairn",
+        "title": "Cairn — Your Daily Bible Companion",
+        "subtitle": "A verse, a reading, and a prayer for you each day",
+        "isActive": false
+      },
+      {
         "id": "interlinear-bible-plus-promo",
         "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/interlinear",
-        "destinationURL": "https://promo-tracker.bible-chat-worker.workers.dev/go/interlinear",
+        "destinationURL": "https://apps.apple.com/us/app/interlinear-bible-plus/id6754784885",
         "title": "Interlinear Bible Plus",
         "subtitle": "Click to Download",
         "isActive": false
