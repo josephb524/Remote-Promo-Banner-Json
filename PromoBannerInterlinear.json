@@ -1,0 +1,22 @@
+{
+  "banners": [
+    {
+      "id": "cairn-daily-bible-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/cairn",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/cairn",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Cairn — Your daily Bible companion",
+      "subtitle": "One verse, one reading, one prayer. Every day.",
+      "isActive": true
+    },
+    {
+      "id": "hearken-sermon-notes-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/hearken",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/hearken",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Hearken — Record the sermon, keep the notes",
+      "subtitle": "Organized notes with every verse linked",
+      "isActive": false
+    }
+  ]
+}
