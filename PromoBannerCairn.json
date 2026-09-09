@@ -1,0 +1,26 @@
+{
+  "banners": [
+    {
+      "id": "interlinear-bible-plus-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/interlinear",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/interlinear",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6754784885?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Interlinear Bible Plus — Hebrew and Greek, word by word",
+      "subtitle": "Strong's definitions a tap away",
+      "titleES": "Interlinear Bible Plus — Hebreo y griego, palabra por palabra",
+      "subtitleES": "Definiciones Strong a un toque",
+      "isActive": true
+    },
+    {
+      "id": "hearken-sermon-notes-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/hearken",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/hearken",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Hearken — Record the Sermon, Keep the Notes",
+      "subtitle": "It writes organized notes for you, with every verse linked",
+      "titleES": "Hearken — Graba el sermón, conserva las notas",
+      "subtitleES": "Escribe notas organizadas por ti, con cada versículo enlazado",
+      "isActive": false
+    }
+  ]
+}
