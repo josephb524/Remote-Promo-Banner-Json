@@ -9,7 +9,7 @@
       "subtitle": "Strong's definitions a tap away",
       "titleES": "Interlinear Bible Plus — Hebreo y griego, palabra por palabra",
       "subtitleES": "Definiciones Strong a un toque",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "hearken-sermon-notes-promo",
@@ -20,7 +20,7 @@
       "subtitle": "It writes organized notes for you, with every verse linked",
       "titleES": "Hearken — Graba el sermón, conserva las notas",
       "subtitleES": "Escribe notas organizadas por ti, con cada versículo enlazado",
-      "isActive": false
+      "isActive": true
     }
   ]
 }
