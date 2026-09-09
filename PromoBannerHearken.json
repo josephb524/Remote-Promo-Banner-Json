@@ -1,0 +1,26 @@
+{
+  "banners": [
+    {
+      "id": "cairn-daily-bible-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/cairn",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/cairn",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Cairn — Your Daily Bible Companion",
+      "subtitle": "A verse, a reading, and a prayer for you each day",
+      "titleES": "Cairn — Tu compañero bíblico diario",
+      "subtitleES": "Un versículo, una lectura y una oración para ti cada día",
+      "isActive": true
+    },
+    {
+      "id": "interlinear-bible-plus-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/interlinear",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/interlinear",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6754784885?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Interlinear Bible Plus — Hebrew and Greek, word by word",
+      "subtitle": "Strong's definitions a tap away",
+      "titleES": "Interlinear Bible Plus — Hebreo y griego, palabra por palabra",
+      "subtitleES": "Definiciones Strong a un toque",
+      "isActive": true
+    }
+  ]
+}
