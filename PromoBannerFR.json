@@ -22,7 +22,7 @@
     },
     {
       "id": "interlinear-bible-plus-promo",
-      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/interlinear",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/interlinear?v=2",
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/interlinear",
       "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/interlinear",
       "destinationURL": "https://apps.apple.com/us/app/interlinear-bible-plus/id6754784885",
