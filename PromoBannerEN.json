@@ -1,6 +1,16 @@
 {
   "banners": [
     {
+      "id": "maranatha-dating-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/maranatha",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/maranatha",
+      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/maranatha",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6782432087?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Maranatha — Adventist Singles",
+      "subtitle": "Meet Adventist singles who share your faith",
+      "isActive": true
+    },
+    {
       "id": "hearken-sermon-notes-promo",
       "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/hearken",
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/hearken",
@@ -18,7 +28,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=promo-banner&mt=8",
       "title": "Cairn — Your Daily Bible Companion",
       "subtitle": "A verse, a reading, and a prayer for you each day",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "interlinear-bible-plus-promo",
