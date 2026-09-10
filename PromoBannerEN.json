@@ -6,7 +6,7 @@
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/maranatha",
       "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/maranatha",
       "destinationURL": "https://apps.apple.com/app/apple-store/id6782432087?pt=121666584&ct=promo-banner&mt=8",
-      "title": "Maranatha — Adventist Singles",
+      "title": "Adventist Singles",
       "subtitle": "Meet Adventist singles who share your faith",
       "isActive": true
     },
@@ -18,7 +18,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
       "title": "Hearken — Record the Sermon, Keep the Notes",
       "subtitle": "It writes organized notes for you, with every verse linked",
-      "isActive": false
+      "isActive": true
     },
     {
       "id": "cairn-daily-bible-promo",
