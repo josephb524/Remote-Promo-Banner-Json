@@ -6,7 +6,7 @@
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/maranatha",
       "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/maranatha",
       "destinationURL": "https://apps.apple.com/app/apple-store/id6782432087?pt=121666584&ct=promo-banner&mt=8",
-      "title": "Maranatha — Solteros Adventistas",
+      "title": "Solteros Adventistas",
       "subtitle": "Conoce solteros adventistas que comparten tu fe",
       "isActive": true
     },
@@ -28,7 +28,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=promo-banner&mt=8",
       "title": "Cairn — Tu compañero bíblico diario",
       "subtitle": "Un versículo, una lectura y una oración cada día",
-      "isActive": false
+      "isActive": true
     },
     {
       "id": "interlinear-bible-plus-promo",
