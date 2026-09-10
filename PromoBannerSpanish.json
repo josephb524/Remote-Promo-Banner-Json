@@ -1,31 +1,34 @@
 {
-    "banners": [
-      {
-        "id": "hearken-sermon-notes-promo",
-        "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/hearken",
-        "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/hearken",
-        "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
-        "title": "Hearken — Graba el sermón, quédate con las notas",
-        "subtitle": "Escribe notas organizadas por ti, con cada versículo enlazado",
-        "isActive": false
-      },
-      {
-        "id": "cairn-daily-bible-promo",
-        "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/cairn",
-        "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/cairn",
-        "destinationURL": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=promo-banner&mt=8",
-        "title": "Cairn — Tu compañero bíblico diario",
-        "subtitle": "Un versículo, una lectura y una oración cada día",
-        "isActive": true
-      },
-      {
-        "id": "interlinear-bible-plus-promo",
-        "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/interlinear",
-        "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/interlinear",
-        "destinationURL": "https://apps.apple.com/us/app/interlinear-bible-plus/id6754784885",
-        "title": "Interlinear Bible Plus",
-        "subtitle": "Haz click para descargar",
-        "isActive": false
-      }
-    ]
-  }
+  "banners": [
+    {
+      "id": "hearken-sermon-notes-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/hearken",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/hearken",
+      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/hearken",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Hearken — Graba el sermón, quédate con las notas",
+      "subtitle": "Escribe notas organizadas por ti, con cada versículo enlazado",
+      "isActive": false
+    },
+    {
+      "id": "cairn-daily-bible-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/cairn",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/cairn",
+      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/cairn",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Cairn — Tu compañero bíblico diario",
+      "subtitle": "Un versículo, una lectura y una oración cada día",
+      "isActive": true
+    },
+    {
+      "id": "interlinear-bible-plus-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/interlinear",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/interlinear",
+      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/interlinear",
+      "destinationURL": "https://apps.apple.com/us/app/interlinear-bible-plus/id6754784885",
+      "title": "Interlinear Bible Plus",
+      "subtitle": "Haz click para descargar",
+      "isActive": false
+    }
+  ]
+}
