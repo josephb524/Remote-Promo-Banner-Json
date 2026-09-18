@@ -1,0 +1,166 @@
+{
+  "apps": [
+    {
+      "id": "maranatha",
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Maranatha.png",
+      "store": "https://apps.apple.com/app/apple-store/id6782432087?pt=121666584&ct=apps-list&mt=8",
+      "countries": [
+        "US"
+      ],
+      "name": {
+        "en": "Maranatha",
+        "es": "Maranatha",
+        "fr": "Maranatha",
+        "pt": "Maranatha"
+      },
+      "pitch": {
+        "en": "Meet Adventist singles who share your faith",
+        "es": "Conoce solteros adventistas que comparten tu fe",
+        "fr": "Rencontrez des célibataires adventistes qui partagent votre foi",
+        "pt": "Conheça solteiros adventistas que compartilham sua fé"
+      },
+      "isActive": true,
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/maranatha?from=apps-list"
+    },
+    {
+      "id": "interlinear",
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Interlinear-256.png",
+      "store": "https://apps.apple.com/app/apple-store/id6754784885?pt=121666584&ct=apps-list&mt=8",
+      "name": {
+        "en": "Interlinear Bible: Strong's",
+        "es": "Biblia Interlineal: Strong",
+        "fr": "Bible interlinéaire : Strong",
+        "pt": "Bíblia Interlinear: Strong"
+      },
+      "pitch": {
+        "en": "Hebrew and Greek word by word, with Strong's definitions",
+        "es": "Hebreo y griego palabra por palabra, con definiciones de Strong",
+        "fr": "Hébreu et grec mot à mot, avec les définitions de Strong",
+        "pt": "Hebraico e grego palavra por palavra, com definições de Strong"
+      },
+      "countries": [],
+      "isActive": true,
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/interlinear?from=apps-list"
+    },
+    {
+      "id": "hearken",
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Hearken-256.png",
+      "store": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=apps-list&mt=8",
+      "name": {
+        "en": "Hearken: Sermon Notes",
+        "es": "Hearken: Notas del Sermón",
+        "fr": "Hearken : Notes de sermon",
+        "pt": "Hearken: Notas do Sermão"
+      },
+      "pitch": {
+        "en": "Record the sermon, keep organized notes with every verse linked",
+        "es": "Graba el sermón y guarda notas ordenadas con cada versículo",
+        "fr": "Enregistrez le sermon, gardez des notes avec chaque verset",
+        "pt": "Grave o sermão e guarde notas organizadas com cada versículo"
+      },
+      "countries": [],
+      "isActive": true,
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/hearken?from=apps-list"
+    },
+    {
+      "id": "cairn",
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Cairn.png",
+      "store": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=apps-list&mt=8",
+      "name": {
+        "en": "Cairn: Daily Bible Companion",
+        "es": "Cairn: Compañero Bíblico Diario",
+        "fr": "Cairn : Compagnon biblique",
+        "pt": "Cairn: Companheiro Bíblico"
+      },
+      "pitch": {
+        "en": "One verse, one reading, one prayer. Every day.",
+        "es": "Un versículo, una lectura y una oración. Cada día.",
+        "fr": "Un verset, une lecture, une prière. Chaque jour.",
+        "pt": "Um versículo, uma leitura, uma oração. Todos os dias."
+      },
+      "countries": [],
+      "isActive": true,
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/cairn?from=apps-list"
+    },
+    {
+      "id": "adventist-hymnal",
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/OfficialAdventistHymnal.png",
+      "store": "https://apps.apple.com/app/apple-store/id6753662916?pt=121666584&ct=apps-list&mt=8",
+      "name": {
+        "en": "Official Adventist Hymnal",
+        "es": "Himnario Adventista (inglés)",
+        "fr": "Adventist Hymnal (anglais)",
+        "pt": "Adventist Hymnal (inglês)"
+      },
+      "pitch": {
+        "en": "The Seventh-day Adventist Hymnal with lyrics, audio and playlists",
+        "es": "El himnario adventista en inglés, con letra, audio y playlists",
+        "fr": "Le recueil adventiste en anglais, paroles, audio et listes",
+        "pt": "O hinário adventista em inglês, com letras, áudio e playlists"
+      },
+      "countries": [],
+      "isActive": true,
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/adventist-hymnal?from=apps-list"
+    },
+    {
+      "id": "himnario-adventista",
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/HimnarioAdventista.png",
+      "store": "https://apps.apple.com/app/apple-store/id1525895857?pt=121666584&ct=apps-list&mt=8",
+      "name": {
+        "en": "Spanish Adventist Hymnal",
+        "es": "Himnario Nuevo Y Antiguo",
+        "fr": "Himnario Adventista (espagnol)",
+        "pt": "Himnario Adventista (espanhol)"
+      },
+      "pitch": {
+        "en": "The Adventist hymnal in Spanish: 2009 and 1962 editions",
+        "es": "Himnario Adventista Nuevo (2009) y Antiguo (1962), letra y música",
+        "fr": "Le recueil adventiste en espagnol, éditions 2009 et 1962",
+        "pt": "O hinário adventista em espanhol, edições 2009 e 1962"
+      },
+      "countries": [],
+      "isActive": true,
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/himnario-adventista?from=apps-list"
+    },
+    {
+      "id": "chantsdesperance",
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/ChantsDEsperance.png",
+      "store": "https://apps.apple.com/app/apple-store/id6809140705?pt=121666584&ct=apps-list&mt=8",
+      "name": {
+        "en": "Chants d'Espérance",
+        "es": "Chants d'Espérance",
+        "fr": "Chants d'Espérance",
+        "pt": "Chants d'Espérance"
+      },
+      "pitch": {
+        "en": "The Haitian hymnal in French, offline, no ads",
+        "es": "El himnario haitiano en francés, sin conexión y sin anuncios",
+        "fr": "Le recueil haïtien, hors ligne, sans publicité",
+        "pt": "O hinário haitiano em francês, offline e sem anúncios"
+      },
+      "countries": [],
+      "isActive": true,
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/chantsdesperance?from=apps-list"
+    },
+    {
+      "id": "harpacrista",
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/HarpaCrista.png",
+      "store": "https://apps.apple.com/app/apple-store/id6809250997?pt=121666584&ct=apps-list&mt=8",
+      "name": {
+        "en": "Harpa Cristã",
+        "es": "Harpa Cristã",
+        "fr": "Harpa Cristã",
+        "pt": "Harpa Cristã"
+      },
+      "pitch": {
+        "en": "The Brazilian hymnal in Portuguese, offline, no ads",
+        "es": "El himnario brasileño en portugués, sin conexión y sin anuncios",
+        "fr": "Le recueil brésilien en portugais, hors ligne, sans publicité",
+        "pt": "Todos os 640 hinos, offline e sem anúncios"
+      },
+      "countries": [],
+      "isActive": true,
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/harpacrista?from=apps-list"
+    }
+  ]
+}
