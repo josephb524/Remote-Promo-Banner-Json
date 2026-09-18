@@ -83,84 +83,50 @@
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/cairn?from=apps-list"
     },
     {
-      "id": "adventist-hymnal",
-      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/OfficialAdventistHymnal.png",
-      "store": "https://apps.apple.com/app/apple-store/id6753662916?pt=121666584&ct=apps-list&mt=8",
+      "id": "lafedejesus",
+      "isActive": true,
+      "countries": [],
+      "onlyIn": [
+        "himnario-adventista"
+      ],
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/FeDeJesus.png",
+      "store": "https://apps.apple.com/app/apple-store/id6759625040?pt=121666584&ct=apps-list&mt=8",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/lafedejesus?from=apps-list",
       "name": {
-        "en": "Official Adventist Hymnal",
-        "es": "Himnario Adventista (inglés)",
-        "fr": "Adventist Hymnal (anglais)",
-        "pt": "Adventist Hymnal (inglês)"
+        "en": "La Fe de Jesús y Doctrinas",
+        "es": "La Fe de Jesús y Doctrinas",
+        "fr": "La Fe de Jesús",
+        "pt": "La Fe de Jesús"
       },
       "pitch": {
-        "en": "The Seventh-day Adventist Hymnal with lyrics, audio and playlists",
-        "es": "El himnario adventista en inglés, con letra, audio y playlists",
-        "fr": "Le recueil adventiste en anglais, paroles, audio et listes",
-        "pt": "O hinário adventista em inglês, com letras, áudio e playlists"
-      },
-      "countries": [],
-      "isActive": true,
-      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/adventist-hymnal?from=apps-list"
+        "en": "The 28 fundamental beliefs and Bible studies, in Spanish",
+        "es": "Las 28 creencias fundamentales y estudios bíblicos",
+        "fr": "Les 28 croyances fondamentales, en espagnol",
+        "pt": "As 28 crenças fundamentais, em espanhol"
+      }
     },
     {
-      "id": "himnario-adventista",
-      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/HimnarioAdventista.png",
-      "store": "https://apps.apple.com/app/apple-store/id1525895857?pt=121666584&ct=apps-list&mt=8",
+      "id": "purepath",
+      "isActive": true,
+      "countries": [],
+      "onlyIn": [
+        "adventist-hymnal"
+      ],
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/PurePath.png",
+      "store": "https://apps.apple.com/app/apple-store/id6749251520?pt=121666584&ct=apps-list&mt=8",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/purepath?from=apps-list",
       "name": {
-        "en": "Spanish Adventist Hymnal",
-        "es": "Himnario Nuevo Y Antiguo",
-        "fr": "Himnario Adventista (espagnol)",
-        "pt": "Himnario Adventista (espanhol)"
+        "en": "Pure Path",
+        "es": "Pure Path",
+        "fr": "Pure Path",
+        "pt": "Pure Path"
       },
       "pitch": {
-        "en": "The Adventist hymnal in Spanish: 2009 and 1962 editions",
-        "es": "Himnario Adventista Nuevo (2009) y Antiguo (1962), letra y música",
-        "fr": "Le recueil adventiste en espagnol, éditions 2009 et 1962",
-        "pt": "O hinário adventista em espanhol, edições 2009 e 1962"
-      },
-      "countries": [],
-      "isActive": true,
-      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/himnario-adventista?from=apps-list"
-    },
-    {
-      "id": "chantsdesperance",
-      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/ChantsDEsperance.png",
-      "store": "https://apps.apple.com/app/apple-store/id6809140705?pt=121666584&ct=apps-list&mt=8",
-      "name": {
-        "en": "Chants d'Espérance",
-        "es": "Chants d'Espérance",
-        "fr": "Chants d'Espérance",
-        "pt": "Chants d'Espérance"
-      },
-      "pitch": {
-        "en": "The Haitian hymnal in French, offline, no ads",
-        "es": "El himnario haitiano en francés, sin conexión y sin anuncios",
-        "fr": "Le recueil haïtien, hors ligne, sans publicité",
-        "pt": "O hinário haitiano em francês, offline e sem anúncios"
-      },
-      "countries": [],
-      "isActive": true,
-      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/chantsdesperance?from=apps-list"
-    },
-    {
-      "id": "harpacrista",
-      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/HarpaCrista.png",
-      "store": "https://apps.apple.com/app/apple-store/id6809250997?pt=121666584&ct=apps-list&mt=8",
-      "name": {
-        "en": "Harpa Cristã",
-        "es": "Harpa Cristã",
-        "fr": "Harpa Cristã",
-        "pt": "Harpa Cristã"
-      },
-      "pitch": {
-        "en": "The Brazilian hymnal in Portuguese, offline, no ads",
-        "es": "El himnario brasileño en portugués, sin conexión y sin anuncios",
-        "fr": "Le recueil brésilien en portugais, hors ligne, sans publicité",
-        "pt": "Todos os 640 hinos, offline e sem anúncios"
-      },
-      "countries": [],
-      "isActive": true,
-      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/harpacrista?from=apps-list"
+        "en": "Block adult content and stay accountable, with Scripture alongside",
+        "es": "Bloquea contenido adulto y mantente firme, con la Biblia a tu lado",
+        "fr": "Bloquez le contenu adulte et restez ferme, la Bible à vos côtés",
+        "pt": "Bloqueie conteúdo adulto e mantenha-se firme, com a Bíblia ao lado"
+      }
     }
   ]
 }
