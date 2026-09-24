@@ -82,6 +82,13 @@ with `App en anglais et en espagnol.` / `App em inglês e espanhol.` Otherwise a
 Haitian reader taps a French sales line and lands in an English app. The
 La Fe de Jesús entry has always done this correctly.
 
+**Keep those pitches short.** `AppsListView` clamps the pitch to three lines,
+which is roughly 55 characters of French or Portuguese on a 6.1" screen. A
+longer line is cut off mid-sentence and takes the language note with it, which
+is worse than not having written it — that happened on the first attempt at
+this fix. `validate.py` fails any pitch over 55 characters that has to carry
+the note.
+
 ## Editing
 
 1. Edit the JSON. Keep two-space indentation and literal accents; the files

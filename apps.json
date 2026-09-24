@@ -44,8 +44,8 @@
       "pitch": {
         "en": "Hebrew and Greek word by word, with Strong's definitions",
         "es": "Hebreo y griego palabra por palabra, con definiciones de Strong",
-        "fr": "Hébreu et grec mot à mot, avec les définitions de Strong. App en anglais et en espagnol.",
-        "pt": "Hebraico e grego palavra por palavra, com definições de Strong. App em inglês e espanhol."
+        "fr": "Hébreu et grec mot à mot. App en anglais/espagnol.",
+        "pt": "Hebraico e grego lado a lado. App em inglês/espanhol."
       },
       "countries": [],
       "isActive": true,
@@ -69,8 +69,8 @@
       "pitch": {
         "en": "Record the sermon, keep organized notes with every verse linked",
         "es": "Graba el sermón y guarda notas ordenadas con cada versículo",
-        "fr": "Enregistrez le sermon, gardez des notes avec chaque verset. App en anglais et en espagnol.",
-        "pt": "Grave o sermão e guarde notas organizadas com cada versículo. App em inglês e espanhol."
+        "fr": "Notes de sermon organisées. App en anglais/espagnol.",
+        "pt": "Anotações do sermão. App em inglês/espanhol."
       },
       "countries": [],
       "isActive": true,
@@ -94,8 +94,8 @@
       "pitch": {
         "en": "One verse, one reading, one prayer. Every day.",
         "es": "Un versículo, una lectura y una oración. Cada día.",
-        "fr": "Un verset, une lecture, une prière. Chaque jour. App en anglais et en espagnol.",
-        "pt": "Um versículo, uma leitura, uma oração. Todos os dias. App em inglês e espanhol."
+        "fr": "Un verset chaque jour. App en anglais/espagnol.",
+        "pt": "Um versículo por dia. App em inglês/espanhol."
       },
       "countries": [],
       "isActive": true,

@@ -23,6 +23,9 @@ HYMNAL_LANGUAGE = {
     "chantsdesperance": "fr",
     "harpacrista": "pt",
 }
+# AppsListView caps the pitch at three lines (lineLimit(3)); on a 6.1"
+# screen that is about 55 characters of French or Portuguese.
+PITCH_CLAMP = 55
 REQUIRED = ["id", "isActive", "icon", "store", "clickURL", "name", "pitch",
             "audience", "languages"]
 LANGS = ["en", "es", "fr", "pt"]
@@ -99,6 +102,13 @@ def main() -> int:
                     f"{aid}: shows in {slug} ({lang}) but the app is "
                     f"{'/'.join(languages)} only, and the {lang} pitch does "
                     f"not say so")
+            elif len(pitch) > PITCH_CLAMP:
+                # AppsListView clamps the pitch to three lines, so a long
+                # pitch hides the very disclosure the rule just demanded.
+                errors.append(
+                    f"{aid}: {lang} pitch is {len(pitch)} chars; over "
+                    f"{PITCH_CLAMP} the three-line clamp cuts off the "
+                    f"language note. Shorten it.")
 
     for line in warnings:
         print(f"warning: {line}")
