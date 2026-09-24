@@ -32,6 +32,31 @@
       ]
     },
     {
+      "id": "cairn",
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Cairn.png",
+      "store": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=apps-list&mt=8",
+      "name": {
+        "en": "Cairn: Daily Bible Companion",
+        "es": "Cairn: Compañero Bíblico Diario",
+        "fr": "Cairn : Compagnon biblique",
+        "pt": "Cairn: Companheiro Bíblico"
+      },
+      "pitch": {
+        "en": "One verse, one reading, one prayer. Every day.",
+        "es": "Un versículo, una lectura y una oración. Cada día.",
+        "fr": "Un verset chaque jour. App en anglais/espagnol.",
+        "pt": "Um versículo por dia. App em inglês/espanhol."
+      },
+      "countries": [],
+      "isActive": true,
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/cairn?from=apps-list",
+      "audience": "general",
+      "languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
       "id": "interlinear",
       "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Interlinear-256.png",
       "store": "https://apps.apple.com/app/apple-store/id6754784885?pt=121666584&ct=apps-list&mt=8",
@@ -82,31 +107,6 @@
       ]
     },
     {
-      "id": "cairn",
-      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Cairn.png",
-      "store": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=apps-list&mt=8",
-      "name": {
-        "en": "Cairn: Daily Bible Companion",
-        "es": "Cairn: Compañero Bíblico Diario",
-        "fr": "Cairn : Compagnon biblique",
-        "pt": "Cairn: Companheiro Bíblico"
-      },
-      "pitch": {
-        "en": "One verse, one reading, one prayer. Every day.",
-        "es": "Un versículo, una lectura y una oración. Cada día.",
-        "fr": "Un verset chaque jour. App en anglais/espagnol.",
-        "pt": "Um versículo por dia. App em inglês/espanhol."
-      },
-      "countries": [],
-      "isActive": true,
-      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/cairn?from=apps-list",
-      "audience": "general",
-      "languages": [
-        "en",
-        "es"
-      ]
-    },
-    {
       "id": "lafedejesus",
       "isActive": true,
       "countries": [],
@@ -138,7 +138,9 @@
       "isActive": true,
       "countries": [],
       "onlyIn": [
-        "adventist-hymnal"
+        "adventist-hymnal",
+        "chantsdesperance",
+        "harpacrista"
       ],
       "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/PurePath.png",
       "store": "https://apps.apple.com/app/apple-store/id6749251520?pt=121666584&ct=apps-list&mt=8",
@@ -152,8 +154,8 @@
       "pitch": {
         "en": "Block adult content and stay accountable, with Scripture alongside",
         "es": "Bloquea contenido adulto y mantente firme, con la Biblia a tu lado",
-        "fr": "Bloquez le contenu adulte et restez ferme, la Bible à vos côtés",
-        "pt": "Bloqueie conteúdo adulto e mantenha-se firme, com a Bíblia ao lado"
+        "fr": "Bloquez le contenu adulte. App en anglais.",
+        "pt": "Bloqueie conteúdo adulto. App em inglês."
       },
       "audience": "general",
       "languages": [
