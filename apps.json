@@ -7,6 +7,10 @@
       "countries": [
         "US"
       ],
+      "onlyIn": [
+        "adventist-hymnal",
+        "himnario-adventista"
+      ],
       "name": {
         "en": "Maranatha",
         "es": "Maranatha",
@@ -20,7 +24,12 @@
         "pt": "Conheça solteiros adventistas que compartilham sua fé"
       },
       "isActive": true,
-      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/maranatha?from=apps-list"
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/maranatha?from=apps-list",
+      "audience": "adventist",
+      "languages": [
+        "en",
+        "es"
+      ]
     },
     {
       "id": "interlinear",
@@ -35,12 +44,17 @@
       "pitch": {
         "en": "Hebrew and Greek word by word, with Strong's definitions",
         "es": "Hebreo y griego palabra por palabra, con definiciones de Strong",
-        "fr": "Hébreu et grec mot à mot, avec les définitions de Strong",
-        "pt": "Hebraico e grego palavra por palavra, com definições de Strong"
+        "fr": "Hébreu et grec mot à mot, avec les définitions de Strong. App en anglais et en espagnol.",
+        "pt": "Hebraico e grego palavra por palavra, com definições de Strong. App em inglês e espanhol."
       },
       "countries": [],
       "isActive": true,
-      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/interlinear?from=apps-list"
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/interlinear?from=apps-list",
+      "audience": "general",
+      "languages": [
+        "en",
+        "es"
+      ]
     },
     {
       "id": "hearken",
@@ -55,12 +69,17 @@
       "pitch": {
         "en": "Record the sermon, keep organized notes with every verse linked",
         "es": "Graba el sermón y guarda notas ordenadas con cada versículo",
-        "fr": "Enregistrez le sermon, gardez des notes avec chaque verset",
-        "pt": "Grave o sermão e guarde notas organizadas com cada versículo"
+        "fr": "Enregistrez le sermon, gardez des notes avec chaque verset. App en anglais et en espagnol.",
+        "pt": "Grave o sermão e guarde notas organizadas com cada versículo. App em inglês e espanhol."
       },
       "countries": [],
       "isActive": true,
-      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/hearken?from=apps-list"
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/hearken?from=apps-list",
+      "audience": "general",
+      "languages": [
+        "en",
+        "es"
+      ]
     },
     {
       "id": "cairn",
@@ -75,12 +94,17 @@
       "pitch": {
         "en": "One verse, one reading, one prayer. Every day.",
         "es": "Un versículo, una lectura y una oración. Cada día.",
-        "fr": "Un verset, une lecture, une prière. Chaque jour.",
-        "pt": "Um versículo, uma leitura, uma oração. Todos os dias."
+        "fr": "Un verset, une lecture, une prière. Chaque jour. App en anglais et en espagnol.",
+        "pt": "Um versículo, uma leitura, uma oração. Todos os dias. App em inglês e espanhol."
       },
       "countries": [],
       "isActive": true,
-      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/cairn?from=apps-list"
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/cairn?from=apps-list",
+      "audience": "general",
+      "languages": [
+        "en",
+        "es"
+      ]
     },
     {
       "id": "lafedejesus",
@@ -103,7 +127,11 @@
         "es": "Las 28 creencias fundamentales y estudios bíblicos",
         "fr": "Les 28 croyances fondamentales, en espagnol",
         "pt": "As 28 crenças fundamentais, em espanhol"
-      }
+      },
+      "audience": "adventist",
+      "languages": [
+        "es"
+      ]
     },
     {
       "id": "purepath",
@@ -126,7 +154,11 @@
         "es": "Bloquea contenido adulto y mantente firme, con la Biblia a tu lado",
         "fr": "Bloquez le contenu adulte et restez ferme, la Bible à vos côtés",
         "pt": "Bloqueie conteúdo adulto e mantenha-se firme, com a Bíblia ao lado"
-      }
+      },
+      "audience": "general",
+      "languages": [
+        "en"
+      ]
     }
   ]
 }
