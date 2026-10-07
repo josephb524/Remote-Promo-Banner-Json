@@ -76,11 +76,18 @@ a Haitian French one. `validate.py` now fails on this.
 If an entry can appear in a hymnal whose language is missing from its
 `languages`, that language's `pitch` must say what the app is actually in.
 
-Cairn, Hearken and Interlinear Bible are English and Spanish only, yet they
-appear in the French and Portuguese hymnals, so their `fr` and `pt` pitches end
-with `App en anglais et en espagnol.` / `App em inglês e espanhol.` Otherwise a
-Haitian reader taps a French sales line and lands in an English app. The
-La Fe de Jesús entry has always done this correctly.
+Otherwise a Haitian reader taps a French sales line and lands in an English
+app. As of 2026-10-07: Cairn and Pure Path have no French, so their `fr`
+pitches end with `App en anglais/espagnol.` / `App en anglais.`; La Fe de Jesús
+(Spanish only) says so in every other language. Cairn, Hearken, Interlinear
+Bible and Pure Path all ship Portuguese now, and Hearken and Interlinear Bible
+ship French, so those pitches carry no note. When an app gains a language, add
+it to `languages` and drop the note from that pitch.
+
+**Pitches never fit more than about 55 characters.** The three-line clamp in
+`AppsListView` (15 pt text, ~140 pt wide next to the icon and the Get button)
+holds about 55 characters of Portuguese or French; 60 already spills onto a
+fourth line and is cut.
 
 **Keep those pitches short.** `AppsListView` clamps the pitch to three lines,
 which is roughly 55 characters of French or Portuguese on a 6.1" screen. A

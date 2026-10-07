@@ -45,7 +45,7 @@
         "en": "One verse, one reading, one prayer. Every day.",
         "es": "Un versículo, una lectura y una oración. Cada día.",
         "fr": "Un verset chaque jour. App en anglais/espagnol.",
-        "pt": "Um versículo por dia. App em inglês/espanhol."
+        "pt": "Versículo, leitura e oração todo dia, no seu widget"
       },
       "countries": [],
       "isActive": true,
@@ -53,7 +53,9 @@
       "audience": "general",
       "languages": [
         "en",
-        "es"
+        "es",
+        "pt",
+        "ko"
       ]
     },
     {
@@ -69,8 +71,8 @@
       "pitch": {
         "en": "Hebrew and Greek word by word, with Strong's definitions",
         "es": "Hebreo y griego palabra por palabra, con definiciones de Strong",
-        "fr": "Hébreu et grec mot à mot. App en anglais/espagnol.",
-        "pt": "Hebraico e grego lado a lado. App em inglês/espanhol."
+        "fr": "Hébreu et grec mot à mot, avec Strong",
+        "pt": "Hebraico e grego palavra por palavra, com Strong"
       },
       "countries": [],
       "isActive": true,
@@ -78,7 +80,11 @@
       "audience": "general",
       "languages": [
         "en",
-        "es"
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ko"
       ]
     },
     {
@@ -94,8 +100,8 @@
       "pitch": {
         "en": "Record the sermon, keep organized notes with every verse linked",
         "es": "Graba el sermón y guarda notas ordenadas con cada versículo",
-        "fr": "Notes de sermon organisées. App en anglais/espagnol.",
-        "pt": "Anotações do sermão. App em inglês/espanhol."
+        "fr": "Enregistrez le sermon et ses versets en notes",
+        "pt": "Grave o sermão e tenha notas com cada versículo"
       },
       "countries": [],
       "isActive": true,
@@ -103,7 +109,11 @@
       "audience": "general",
       "languages": [
         "en",
-        "es"
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ko"
       ]
     },
     {
@@ -155,11 +165,14 @@
         "en": "Block adult content and stay accountable, with Scripture alongside",
         "es": "Bloquea contenido adulto y mantente firme, con la Biblia a tu lado",
         "fr": "Bloquez le contenu adulte. App en anglais.",
-        "pt": "Bloqueie conteúdo adulto. App em inglês."
+        "pt": "Bloqueie conteúdo adulto e mantenha-se firme na fé"
       },
       "audience": "general",
       "languages": [
-        "en"
+        "en",
+        "es",
+        "pt",
+        "de"
       ]
     }
   ]
