@@ -36,16 +36,16 @@
       "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Cairn.png",
       "store": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=apps-list&mt=8",
       "name": {
-        "en": "Cairn: Daily Bible Companion",
-        "es": "Cairn: Compañero Bíblico Diario",
+        "en": "Daily Bible Verse: Cairn",
+        "es": "Biblia Widget y Oración: Cairn",
         "fr": "Cairn : Compagnon biblique",
-        "pt": "Cairn: Companheiro Bíblico"
+        "pt": "Versículo do Dia: Cairn"
       },
       "pitch": {
-        "en": "One verse, one reading, one prayer. Every day.",
-        "es": "Un versículo, una lectura y una oración. Cada día.",
+        "en": "Widget, Lock Screen & Prayer",
+        "es": "Versículo diario, chat bíblico",
         "fr": "Un verset chaque jour. App en anglais/espagnol.",
-        "pt": "Versículo, leitura e oração todo dia, no seu widget"
+        "pt": "Bíblia na tela de bloqueio"
       },
       "countries": [],
       "isActive": true,
@@ -69,10 +69,10 @@
         "pt": "Bíblia Interlinear: Strong"
       },
       "pitch": {
-        "en": "Hebrew and Greek word by word, with Strong's definitions",
-        "es": "Hebreo y griego palabra por palabra, con definiciones de Strong",
+        "en": "Hebrew Greek Concordance Study",
+        "es": "Hebreo, griego y chat bíblico",
         "fr": "Hébreu et grec mot à mot, avec Strong",
-        "pt": "Hebraico e grego palavra por palavra, com Strong"
+        "pt": "Estudo do hebraico e do grego"
       },
       "countries": [],
       "isActive": true,
@@ -92,16 +92,16 @@
       "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Hearken-256.png",
       "store": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=apps-list&mt=8",
       "name": {
-        "en": "Hearken: Sermon Notes",
-        "es": "Hearken: Notas del Sermón",
+        "en": "Sermon Notes & Bible: Hearken",
+        "es": "Notas de Sermón: Hearken",
         "fr": "Hearken : Notes de sermon",
-        "pt": "Hearken: Notas do Sermão"
+        "pt": "Notas de Sermão: Hearken"
       },
       "pitch": {
-        "en": "Record the sermon, keep organized notes with every verse linked",
-        "es": "Graba el sermón y guarda notas ordenadas con cada versículo",
+        "en": "Church Recorder & Note Taker",
+        "es": "Grabadora de prédicas y Biblia",
         "fr": "Enregistrez le sermon et ses versets en notes",
-        "pt": "Grave o sermão e tenha notas com cada versículo"
+        "pt": "Gravador de culto e pregação"
       },
       "countries": [],
       "isActive": true,
@@ -156,16 +156,16 @@
       "store": "https://apps.apple.com/app/apple-store/id6749251520?pt=121666584&ct=apps-list&mt=8",
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/purepath?from=apps-list",
       "name": {
-        "en": "Pure Path",
-        "es": "Pure Path",
+        "en": "Adult Content Blocker・Quit PMO",
+        "es": "Bloqueador Adulto・Dejar Vicios",
         "fr": "Pure Path",
-        "pt": "Pure Path"
+        "pt": "Bloqueador de Sites Adultos"
       },
       "pitch": {
-        "en": "Block adult content and stay accountable, with Scripture alongside",
-        "es": "Bloquea contenido adulto y mantente firme, con la Biblia a tu lado",
+        "en": "Website Blocker & Quit Lust",
+        "es": "Bloquear páginas y adicciones",
         "fr": "Bloquez le contenu adulte. App en anglais.",
-        "pt": "Bloqueie conteúdo adulto e mantenha-se firme na fé"
+        "pt": "Bloquear sites e largar vícios"
       },
       "audience": "general",
       "languages": [
