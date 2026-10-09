@@ -1,8 +1,8 @@
 {
   "banners": [
     {
-      "id": "interlinear-bible-plus-promo",
-      "imageURL": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Interlineal%20bible%20app%20icon.png",
+      "id": "maranatha-dating-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/maranatha",
       "destinationURL": "https://play.google.com/store/apps/details?id=dating.maranatha",
       "title": "Solteros Adventistas",
       "subtitle": "Conoce solteros adventistas que comparten tu fe",
