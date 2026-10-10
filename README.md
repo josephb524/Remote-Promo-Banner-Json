@@ -15,6 +15,7 @@ have actually happened here.
 | `apps.json` | The "More apps" list in all four hymnals |
 | `PromoBannerEN.json` / `PromoBannerSpanish.json` | Banners in the English / Spanish hymnals |
 | `PromoBannerFR.json` / `PromoBannerPT.json` | Banners in the French / Portuguese hymnals |
+| `PromoBannerSpanishAndroid.json` / `PromoBannerENAndroid.json` | Banners in the Spanish / English Android hymnals (Google Play links) |
 | `PromoBannerCairn.json` / `PromoBannerHearken.json` / `PromoBannerInterlinear.json` | Banners in those apps |
 | `*.png` | Icons, fetched directly by the apps and proxied by the promo-tracker Worker |
 

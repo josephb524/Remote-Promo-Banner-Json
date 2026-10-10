@@ -1,0 +1,12 @@
+{
+  "banners": [
+    {
+      "id": "maranatha-dating-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/maranatha",
+      "destinationURL": "https://play.google.com/store/apps/details?id=dating.maranatha",
+      "title": "Adventist Singles",
+      "subtitle": "Meet Adventist singles who share your faith",
+      "isActive": true
+    }
+  ]
+}
