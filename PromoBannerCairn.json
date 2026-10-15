@@ -18,9 +18,9 @@
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/hearken",
       "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/hearken",
       "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
-      "title": "Hearken — Record the Sermon, Keep the Notes",
+      "title": "Sermon Notes & Bible: Hearken",
       "subtitle": "It writes organized notes for you, with every verse linked",
-      "titleES": "Hearken — Graba el sermón, conserva las notas",
+      "titleES": "Notas de Sermón: Hearken",
       "subtitleES": "Escribe notas organizadas por ti, con cada versículo enlazado",
       "isActive": true
     }

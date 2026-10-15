@@ -16,7 +16,7 @@
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/cairn",
       "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/cairn",
       "destinationURL": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=promo-banner&mt=8",
-      "title": "Cairn — Tu compañero bíblico diario",
+      "title": "Biblia Widget y Oración: Cairn",
       "subtitle": "Un versículo, una lectura y una oración cada día",
       "isActive": true
     },
@@ -26,7 +26,7 @@
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/hearken",
       "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/hearken",
       "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
-      "title": "Hearken — Graba el sermón, quédate con las notas",
+      "title": "Notas de Sermón: Hearken",
       "subtitle": "Escribe notas organizadas por ti, con cada versículo enlazado",
       "isActive": false
     },
