@@ -32,8 +32,10 @@
     },
     {
       "id": "larune",
-      "imageURL": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Larune.png",
-      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/larune?from=apps-list",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/larune",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/larune",
+      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/larune",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6763440066?pt=121666584&ct=promo-banner&mt=8",
       "title": "Notas de voz com IA: Larune",
       "subtitle": "Gravador de voz e transcrição",
       "isActive": true
