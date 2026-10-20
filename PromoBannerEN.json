@@ -39,6 +39,16 @@
       "title": "Interlinear Bible Plus",
       "subtitle": "Click to Download",
       "isActive": false
+    },
+    {
+      "id": "larune",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/larune",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/larune",
+      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/larune",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6763440066?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Voice Memos to Text: Larune",
+      "subtitle": "Lecture Recorder & AI Notes",
+      "isActive": false
     }
   ]
 }
