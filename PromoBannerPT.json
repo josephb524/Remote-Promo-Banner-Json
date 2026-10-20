@@ -10,6 +10,16 @@
       "subtitle": "Anotações organizadas para você, com cada versículo vinculado",
       "isActive": false
     },
+     {
+      "id": "larune",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/larune",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/larune",
+      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/larune",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6763440066?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Notas de voz com IA: Larune",
+      "subtitle": "Gravador de voz e transcrição",
+      "isActive": true
+    },
     {
       "id": "cairn-daily-bible-promo",
       "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/cairn",
@@ -29,16 +39,6 @@
       "title": "Interlinear Bible Plus",
       "subtitle": "Toque para baixar",
       "isActive": false
-    },
-    {
-      "id": "larune",
-      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/larune",
-      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/larune",
-      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/larune",
-      "destinationURL": "https://apps.apple.com/app/apple-store/id6763440066?pt=121666584&ct=promo-banner&mt=8",
-      "title": "Notas de voz com IA: Larune",
-      "subtitle": "Gravador de voz e transcrição",
-      "isActive": true
     }
   ]
 }
