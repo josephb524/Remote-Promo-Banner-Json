@@ -18,7 +18,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=promo-banner&mt=8",
       "title": "Versículo del Día: Cairn",
       "subtitle": "Un versículo, una lectura y una oración cada día",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "hearken-sermon-notes-promo",
@@ -39,6 +39,16 @@
       "title": "Interlinear Bible Plus",
       "subtitle": "Haz click para descargar",
       "isActive": false
+    },
+    {
+      "id": "larune",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/larune",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/larune",
+      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/larune",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6763440066?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Notas de voz con IA: Larune",
+      "subtitle": "Transcribir audio a texto",
+      "isActive": true
     }
   ]
 }
