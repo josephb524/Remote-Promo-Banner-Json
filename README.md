@@ -34,6 +34,11 @@ itself.
 
 **The last two are not Adventist apps.** That is the point of rule 1.
 
+**Chants d'Espérance is no longer on the App Store** (Jose removed it; recorded
+2026-10-19). Copies already installed still fetch `apps.json` and
+`PromoBannerFR.json`, so its slug stays valid and its entries still matter.
+New apps may leave it out of `onlyIn`: Larune (added 2026-10-19) does.
+
 ## `apps.json` entry
 
 ```json
