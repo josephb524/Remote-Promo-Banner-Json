@@ -8,7 +8,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6782432087?pt=121666584&ct=promo-banner&mt=8",
       "title": "Solteros Adventistas",
       "subtitle": "Conoce solteros adventistas que comparten tu fe",
-      "isActive": false
+      "isActive": true
     },
     {
       "id": "cairn-daily-bible-promo",
@@ -48,7 +48,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6763440066?pt=121666584&ct=promo-banner&mt=8",
       "title": "Notas de voz con IA: Larune",
       "subtitle": "Transcribir audio a texto",
-      "isActive": true
+      "isActive": false
     }
   ]
 }
