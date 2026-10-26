@@ -18,7 +18,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6763440066?pt=121666584&ct=promo-banner&mt=8",
       "title": "Notas de voz com IA: Larune",
       "subtitle": "Gravador de voz e transcrição",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "cairn-daily-bible-promo",
@@ -38,7 +38,7 @@
       "destinationURL": "https://apps.apple.com/us/app/interlinear-bible-plus/id6754784885",
       "title": "Interlinear Bible Plus",
       "subtitle": "Toque para baixar",
-      "isActive": false
+      "isActive": true
     }
   ]
 }
