@@ -8,7 +8,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6829874763?pt=121666584&ct=promo-banner&mt=8",
       "title": "Quem Sou Eu? Jogo Bíblico",
       "subtitle": "Adivinhe personagens da Bíblia em família",
-      "isActive": false
+      "isActive": true
     },
     {
       "id": "hearken-sermon-notes-promo",
@@ -48,7 +48,7 @@
       "destinationURL": "https://apps.apple.com/us/app/interlinear-bible-plus/id6754784885",
       "title": "Interlinear Bible Plus",
       "subtitle": "Toque para baixar",
-      "isActive": true
+      "isActive": false
     }
   ]
 }
