@@ -1,6 +1,37 @@
 {
   "apps": [
     {
+      "id": "biblecharades",
+      "isActive": true,
+      "countries": [],
+      "onlyIn": [
+        "adventist-hymnal",
+        "himnario-adventista",
+        "harpacrista"
+      ],
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/BibleCharades.png",
+      "store": "https://apps.apple.com/app/apple-store/id6829874763?pt=121666584&ct=apps-list&mt=8",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/biblecharades?from=apps-list",
+      "name": {
+        "en": "Bible Charades: Who Am I?",
+        "es": "Charadas Bíblicas: ¿Quién Soy?",
+        "fr": "Bible Charades: Who Am I?",
+        "pt": "Mímica Bíblica: Quem Sou Eu?"
+      },
+      "pitch": {
+        "en": "Church & Family Party Game",
+        "es": "Mímica en familia e iglesia",
+        "fr": "Jeu de mime biblique. App en anglais/espagnol.",
+        "pt": "Charadas em família e igreja"
+      },
+      "audience": "general",
+      "languages": [
+        "en",
+        "es",
+        "pt"
+      ]
+    },
+    {
       "id": "maranatha",
       "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/Maranatha.png",
       "store": "https://apps.apple.com/app/apple-store/id6782432087?pt=121666584&ct=apps-list&mt=8",

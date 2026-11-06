@@ -1,6 +1,16 @@
 {
   "banners": [
     {
+      "id": "bible-charades-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/biblecharades",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/biblecharades",
+      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/biblecharades",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6829874763?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Charadas Bíblicas: ¿Quién Soy?",
+      "subtitle": "Un juego bíblico para toda la familia",
+      "isActive": false
+    },
+    {
       "id": "maranatha-dating-promo",
       "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/maranatha",
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/maranatha",
