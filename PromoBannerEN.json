@@ -18,7 +18,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=promo-banner&mt=8",
       "title": "Daily Bible Verse: Cairn",
       "subtitle": "A verse, a reading, and a prayer for you each day",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "hearken-sermon-notes-promo",
@@ -26,9 +26,9 @@
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/hearken",
       "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/hearken",
       "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
-      "title": "Sermon Notes & Bible: Hearken",
+      "title": "Sermon Note Taker: Hearken",
       "subtitle": "It writes organized notes for you, with every verse linked",
-      "isActive": false
+      "isActive": true
     },
     {
       "id": "interlinear-bible-plus-promo",
