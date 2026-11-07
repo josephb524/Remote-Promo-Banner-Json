@@ -19,7 +19,7 @@
       "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/hearken",
       "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
       "title": "Sermon Notes & Bible: Hearken",
-      "subtitle": "It writes organized notes for you, with every verse linked",
+      "subtitle": "Records the sermon and writes a summary",
       "titleES": "Notas de Sermón: Hearken",
       "subtitleES": "Escribe notas organizadas por ti, con cada versículo enlazado",
       "isActive": true
