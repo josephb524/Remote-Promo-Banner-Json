@@ -18,7 +18,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
       "title": "Notas de Sermão: Hearken",
       "subtitle": "Grave a pregação e receba um resumo",
-      "isActive": false
+      "isActive": true
     },
     {
       "id": "larune",
@@ -38,7 +38,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6805641022?pt=121666584&ct=promo-banner&mt=8",
       "title": "Versículo do Dia: Cairn",
       "subtitle": "Um versículo, uma leitura e uma oração todos os dias",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "interlinear-bible-plus-promo",
