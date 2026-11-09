@@ -8,7 +8,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6829874763?pt=121666584&ct=promo-banner&mt=8",
       "title": "Bible Charades: Who Am I?",
       "subtitle": "A Bible party game for the whole family",
-      "isActive": false
+      "isActive": true
     },
     {
       "id": "maranatha-dating-promo",
@@ -18,7 +18,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6782432087?pt=121666584&ct=promo-banner&mt=8",
       "title": "Adventist Singles",
       "subtitle": "Meet Adventist singles who share your faith",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "cairn-daily-bible-promo",
