@@ -1,6 +1,37 @@
 {
   "apps": [
     {
+      "id": "biblecrossword",
+      "isActive": true,
+      "countries": [],
+      "onlyIn": [
+        "adventist-hymnal",
+        "himnario-adventista",
+        "harpacrista"
+      ],
+      "icon": "https://raw.githubusercontent.com/josephb524/Remote-Promo-Banner-Json/main/BibleCrossword.png",
+      "store": "https://apps.apple.com/app/apple-store/id6834604418?pt=121666584&ct=apps-list&mt=8",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/biblecrossword?from=apps-list",
+      "name": {
+        "en": "Bible Crossword: Word Wheel",
+        "es": "Juegos Bíblicos: Crucigrama",
+        "fr": "Bible Crossword: Word Wheel",
+        "pt": "Jogos Bíblicos: Cruzadinha"
+      },
+      "pitch": {
+        "en": "Every puzzle unlocks a verse",
+        "es": "Cada crucigrama abre un versículo",
+        "fr": "Mots croisés bibliques (anglais, espagnol, portugais)",
+        "pt": "Cada cruzadinha revela um versículo"
+      },
+      "audience": "general",
+      "languages": [
+        "en",
+        "es",
+        "pt"
+      ]
+    },
+    {
       "id": "biblecharades",
       "isActive": true,
       "countries": [],
