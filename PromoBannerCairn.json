@@ -1,6 +1,24 @@
 {
   "banners": [
     {
+      "id": "bible-crossword-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/biblecrossword",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/biblecrossword",
+      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/biblecrossword",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6834604418?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Bible Crossword: Word Wheel",
+      "subtitle": "Every puzzle unlocks a verse",
+      "titleES": "Juegos Bíblicos: Crucigrama",
+      "subtitleES": "Cada crucigrama abre un versículo",
+      "localizations": {
+        "pt": {
+          "title": "Jogos Bíblicos: Cruzadinha",
+          "subtitle": "Cada cruzadinha revela um versículo"
+        }
+      },
+      "isActive": true
+    },
+    {
       "id": "interlinear-bible-plus-promo",
       "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/interlinear?v=2",
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/interlinear",
@@ -22,7 +40,7 @@
       "subtitle": "Records the sermon and writes a summary",
       "titleES": "Notas de Sermón: Hearken",
       "subtitleES": "Escribe notas organizadas por ti, con cada versículo enlazado",
-      "isActive": true
+      "isActive": false
     }
   ]
 }
