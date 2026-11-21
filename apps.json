@@ -13,10 +13,10 @@
       "store": "https://apps.apple.com/app/apple-store/id6834604418?pt=121666584&ct=apps-list&mt=8",
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/biblecrossword?from=apps-list",
       "name": {
-        "en": "Bible Crossword: Word Wheel",
-        "es": "Juego de crucigramas bíblicos",
-        "fr": "Bible Crossword: Word Wheel",
-        "pt": "Jogo de cruzadinhas bíblicas"
+        "en": "Bible Word Game",
+        "es": "Crucigramas bíblicos",
+        "fr": "Bible Word Game",
+        "pt": "Cruzadinhas bíblicas"
       },
       "pitch": {
         "en": "Solve word puzzles from Bible stories",

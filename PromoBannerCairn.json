@@ -2,17 +2,17 @@
   "banners": [
     {
       "id": "bible-crossword-promo",
-      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/biblecrossword",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/biblecrossword?v=2",
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/biblecrossword",
       "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/biblecrossword",
       "destinationURL": "https://apps.apple.com/app/apple-store/id6834604418?pt=121666584&ct=promo-banner&mt=8",
-      "title": "Bible Crossword: Word Wheel",
+      "title": "Bible Word Game",
       "subtitle": "Solve word puzzles from Bible stories",
-      "titleES": "Juego de crucigramas bíblicos",
+      "titleES": "Crucigramas bíblicos",
       "subtitleES": "Cada crucigrama abre un versículo",
       "localizations": {
         "pt": {
-          "title": "Jogo de cruzadinhas bíblicas",
+          "title": "Cruzadinhas bíblicas",
           "subtitle": "Cada cruzadinha revela um versículo"
         }
       },
