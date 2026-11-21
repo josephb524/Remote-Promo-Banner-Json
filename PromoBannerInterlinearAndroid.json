@@ -1,0 +1,32 @@
+{
+  "banners": [
+    {
+      "id": "cairn-daily-bible-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/cairn?from=interlinear-android",
+      "destinationURL": "https://play.google.com/store/apps/details?id=com.jose.pimentel.cairn&referrer=utm_source%3Dinterlinear%26utm_medium%3Dpromo-banner",
+      "title": "Daily Bible Verse: Cairn",
+      "subtitle": "A Bible verse widget and lock screen, with a devotional and prayer",
+      "isActive": true,
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/cairn?from=interlinear-android",
+      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/cairn?from=interlinear-android",
+      "localizations": {
+        "es": {
+          "title": "Biblia Widget y Oración: Cairn",
+          "subtitle": "Versículo del día en widget y pantalla de bloqueo, con oración"
+        },
+        "pt": {
+          "title": "Versículo do Dia: Cairn",
+          "subtitle": "Versículo do dia no widget e na tela de bloqueio, com devocional e oração"
+        },
+        "de": {
+          "title": "Bibel & Gebet: Cairn",
+          "subtitle": "Bibelvers des Tages für Widget und Sperrbildschirm, mit Andacht und Gebet"
+        },
+        "ko": {
+          "title": "성경 큐티·기도노트: Cairn",
+          "subtitle": "홈 화면 성경 위젯과 잠금화면 말씀, 오늘의 큐티 묵상과 기도"
+        }
+      }
+    }
+  ]
+}

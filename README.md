@@ -17,6 +17,7 @@ have actually happened here.
 | `PromoBannerFR.json` / `PromoBannerPT.json` | Banners in the French / Portuguese hymnals |
 | `PromoBannerSpanishAndroid.json` / `PromoBannerENAndroid.json` | Banners in the Spanish / English Android hymnals (Google Play links) |
 | `PromoBannerCairn.json` / `PromoBannerHearken.json` / `PromoBannerInterlinear.json` | Banners in those apps |
+| `PromoBannerInterlinearAndroid.json` | Banner in Interlinear Bible's Android book picker (Google Play links; `?from=interlinear-android` labels its counts). Optional `localizations` keyed by language code (`es`, `pt`, `de`, `ko`); other languages read `title` / `subtitle` |
 | `*.png` | Icons, fetched directly by the apps and proxied by the promo-tracker Worker |
 
 ## The four hymnals
