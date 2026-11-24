@@ -7,6 +7,14 @@
       "title": "Solteros Adventistas",
       "subtitle": "Conoce solteros adventistas que comparten tu fe",
       "isActive": true
+    },
+    {
+      "id": "cairn-daily-bible-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/cairn?from=himnario-adventista-android",
+      "destinationURL": "https://play.google.com/store/apps/details?id=com.jose.pimentel.cairn&referrer=utm_source%3Dhimnario-adventista%26utm_medium%3Dpromo-banner",
+      "title": "Biblia Widget y Oración: Cairn",
+      "subtitle": "Versículo del día en widget y pantalla de bloqueo, con oración",
+      "isActive": true
     }
   ]
 }

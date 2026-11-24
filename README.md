@@ -15,7 +15,7 @@ have actually happened here.
 | `apps.json` | The "More apps" list in all four hymnals |
 | `PromoBannerEN.json` / `PromoBannerSpanish.json` | Banners in the English / Spanish hymnals |
 | `PromoBannerFR.json` / `PromoBannerPT.json` | Banners in the French / Portuguese hymnals |
-| `PromoBannerSpanishAndroid.json` / `PromoBannerENAndroid.json` | Banners in the Spanish / English Android hymnals (Google Play links) |
+| `PromoBannerSpanishAndroid.json` / `PromoBannerENAndroid.json` | Banners in the Spanish / English Android hymnals (Google Play links). First active banner on the hymn list, second on the lyrics screen; with one, both show it. The apps send no `clickURL` / `dismissURL`, so the tracker counts views only: `?from=himnario-adventista-android` / `adventist-hymnal-android` labels them, and an image URL without it counts as `okhttp` |
 | `PromoBannerCairn.json` / `PromoBannerHearken.json` / `PromoBannerInterlinear.json` | Banners in those apps |
 | `PromoBannerInterlinearAndroid.json` | Banner in Interlinear Bible's Android book picker (Google Play links; `?from=interlinear-android` labels its counts). Optional `localizations` keyed by language code (`es`, `pt`, `de`, `ko`); other languages read `title` / `subtitle` |
 | `*.png` | Icons, fetched directly by the apps and proxied by the promo-tracker Worker |
