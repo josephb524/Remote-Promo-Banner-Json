@@ -1,16 +1,6 @@
 {
   "banners": [
     {
-      "id": "bible-crossword-promo",
-      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/biblecrossword?v=2",
-      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/biblecrossword",
-      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/biblecrossword",
-      "destinationURL": "https://apps.apple.com/app/apple-store/id6834604418?pt=121666584&ct=promo-banner&mt=8",
-      "title": "Crucigramas bíblicos",
-      "subtitle": "Cada crucigrama abre un versículo",
-      "isActive": true
-    },
-    {
       "id": "maranatha-dating-promo",
       "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/maranatha",
       "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/maranatha",
@@ -18,6 +8,16 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6782432087?pt=121666584&ct=promo-banner&mt=8",
       "title": "Solteros Adventistas",
       "subtitle": "Conoce solteros adventistas que comparten tu fe",
+      "isActive": true
+    },
+    {
+      "id": "bible-crossword-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/biblecrossword?v=2",
+      "clickURL": "https://promo-tracker.bible-chat-worker.workers.dev/hit/biblecrossword",
+      "dismissURL": "https://promo-tracker.bible-chat-worker.workers.dev/dismiss/biblecrossword",
+      "destinationURL": "https://apps.apple.com/app/apple-store/id6834604418?pt=121666584&ct=promo-banner&mt=8",
+      "title": "Crucigramas bíblicos",
+      "subtitle": "Cada crucigrama abre un versículo",
       "isActive": true
     },
     {
