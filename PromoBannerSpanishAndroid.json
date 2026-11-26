@@ -14,6 +14,14 @@
       "destinationURL": "https://play.google.com/store/apps/details?id=com.jose.pimentel.cairn&referrer=utm_source%3Dhimnario-adventista%26utm_medium%3Dpromo-banner",
       "title": "Versículo del Día: Cairn",
       "subtitle": "Widget y pantalla de bloqueo, con una lectura y una oración",
+      "isActive": false
+    },
+    {
+      "id": "interlinear-bible-plus-promo",
+      "imageURL": "https://promo-tracker.bible-chat-worker.workers.dev/img/interlinear?v=2&from=himnario-adventista-android",
+      "destinationURL": "https://play.google.com/store/apps/details?id=com.jose.pimentel.interlinearbibleplus&referrer=utm_source%3Dhimnario-adventista%26utm_medium%3Dpromo-banner",
+      "title": "Biblia Interlineal: Strong",
+      "subtitle": "Hebreo y griego palabra por palabra, con chat bíblico",
       "isActive": true
     }
   ]
