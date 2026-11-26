@@ -18,7 +18,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6829874763?pt=121666584&ct=promo-banner&mt=8",
       "title": "Bible Charades: Who Am I?",
       "subtitle": "A Bible party game for the whole family",
-      "isActive": false
+      "isActive": true
     },
     {
       "id": "maranatha-dating-promo",
@@ -48,7 +48,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
       "title": "Sermon Note Taker: Hearken",
       "subtitle": "Records the sermon and writes a summary",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "interlinear-bible-plus-promo",
