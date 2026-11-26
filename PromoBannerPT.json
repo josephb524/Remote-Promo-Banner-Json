@@ -28,7 +28,7 @@
       "destinationURL": "https://apps.apple.com/app/apple-store/id6804923617?pt=121666584&ct=promo-banner&mt=8",
       "title": "Notas de Sermão: Hearken",
       "subtitle": "Grave a pregação e receba um resumo",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "larune",
@@ -58,7 +58,7 @@
       "destinationURL": "https://apps.apple.com/us/app/interlinear-bible-plus/id6754784885",
       "title": "Interlinear Bible Plus",
       "subtitle": "Toque para baixar",
-      "isActive": false
+      "isActive": true
     }
   ]
 }
